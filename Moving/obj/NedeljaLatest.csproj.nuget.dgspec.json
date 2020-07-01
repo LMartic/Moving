@@ -1,0 +1,379 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Salman\\source\\repos\\NedeljaLatest\\NedeljaLatest\\NedeljaLatest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Salman\\source\\repos\\NedeljaLatest\\NedeljaLatest.Application\\NedeljaLatest.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Salman\\source\\repos\\NedeljaLatest\\NedeljaLatest.Application\\NedeljaLatest.Application.csproj",
+        "projectName": "NedeljaLatest.Application",
+        "projectPath": "C:\\Users\\Salman\\source\\repos\\NedeljaLatest\\NedeljaLatest.Application\\NedeljaLatest.Application.csproj",
+        "packagesPath": "C:\\Users\\Salman\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Salman\\source\\repos\\NedeljaLatest\\NedeljaLatest.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Salman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/nuget": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Salman\\source\\repos\\NedeljaLatest\\NedeljaLatest.Domain\\NedeljaLatest.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Salman\\source\\repos\\NedeljaLatest\\NedeljaLatest.Domain\\NedeljaLatest.Domain.csproj",
+        "projectName": "NedeljaLatest.Domain",
+        "projectPath": "C:\\Users\\Salman\\source\\repos\\NedeljaLatest\\NedeljaLatest.Domain\\NedeljaLatest.Domain.csproj",
+        "packagesPath": "C:\\Users\\Salman\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Salman\\source\\repos\\NedeljaLatest\\NedeljaLatest.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Salman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/nuget": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Salman\\source\\repos\\NedeljaLatest\\NedeljaLatest.EfDataAccess\\NedeljaLatest.EfDataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Salman\\source\\repos\\NedeljaLatest\\NedeljaLatest.EfDataAccess\\NedeljaLatest.EfDataAccess.csproj",
+        "projectName": "NedeljaLatest.EfDataAccess",
+        "projectPath": "C:\\Users\\Salman\\source\\repos\\NedeljaLatest\\NedeljaLatest.EfDataAccess\\NedeljaLatest.EfDataAccess.csproj",
+        "packagesPath": "C:\\Users\\Salman\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Salman\\source\\repos\\NedeljaLatest\\NedeljaLatest.EfDataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Salman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/nuget": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Salman\\source\\repos\\NedeljaLatest\\NedeljaLatest.Domain\\NedeljaLatest.Domain.csproj": {
+                "projectPath": "C:\\Users\\Salman\\source\\repos\\NedeljaLatest\\NedeljaLatest.Domain\\NedeljaLatest.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Salman\\source\\repos\\NedeljaLatest\\NedeljaLatest.Implementation\\NedeljaLatest.Implementation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Salman\\source\\repos\\NedeljaLatest\\NedeljaLatest.Implementation\\NedeljaLatest.Implementation.csproj",
+        "projectName": "NedeljaLatest.Implementation",
+        "projectPath": "C:\\Users\\Salman\\source\\repos\\NedeljaLatest\\NedeljaLatest.Implementation\\NedeljaLatest.Implementation.csproj",
+        "packagesPath": "C:\\Users\\Salman\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Salman\\source\\repos\\NedeljaLatest\\NedeljaLatest.Implementation\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Salman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/nuget": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Salman\\source\\repos\\NedeljaLatest\\NedeljaLatest.Application\\NedeljaLatest.Application.csproj": {
+                "projectPath": "C:\\Users\\Salman\\source\\repos\\NedeljaLatest\\NedeljaLatest.Application\\NedeljaLatest.Application.csproj"
+              },
+              "C:\\Users\\Salman\\source\\repos\\NedeljaLatest\\NedeljaLatest.EfDataAccess\\NedeljaLatest.EfDataAccess.csproj": {
+                "projectPath": "C:\\Users\\Salman\\source\\repos\\NedeljaLatest\\NedeljaLatest.EfDataAccess\\NedeljaLatest.EfDataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[8.6.2, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Salman\\source\\repos\\NedeljaLatest\\NedeljaLatest\\NedeljaLatest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Salman\\source\\repos\\NedeljaLatest\\NedeljaLatest\\NedeljaLatest.csproj",
+        "projectName": "NedeljaLatest",
+        "projectPath": "C:\\Users\\Salman\\source\\repos\\NedeljaLatest\\NedeljaLatest\\NedeljaLatest.csproj",
+        "packagesPath": "C:\\Users\\Salman\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Salman\\source\\repos\\NedeljaLatest\\NedeljaLatest\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Salman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/nuget": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Salman\\source\\repos\\NedeljaLatest\\NedeljaLatest.Application\\NedeljaLatest.Application.csproj": {
+                "projectPath": "C:\\Users\\Salman\\source\\repos\\NedeljaLatest\\NedeljaLatest.Application\\NedeljaLatest.Application.csproj"
+              },
+              "C:\\Users\\Salman\\source\\repos\\NedeljaLatest\\NedeljaLatest.Domain\\NedeljaLatest.Domain.csproj": {
+                "projectPath": "C:\\Users\\Salman\\source\\repos\\NedeljaLatest\\NedeljaLatest.Domain\\NedeljaLatest.Domain.csproj"
+              },
+              "C:\\Users\\Salman\\source\\repos\\NedeljaLatest\\NedeljaLatest.EfDataAccess\\NedeljaLatest.EfDataAccess.csproj": {
+                "projectPath": "C:\\Users\\Salman\\source\\repos\\NedeljaLatest\\NedeljaLatest.EfDataAccess\\NedeljaLatest.EfDataAccess.csproj"
+              },
+              "C:\\Users\\Salman\\source\\repos\\NedeljaLatest\\NedeljaLatest.Implementation\\NedeljaLatest.Implementation.csproj": {
+                "projectPath": "C:\\Users\\Salman\\source\\repos\\NedeljaLatest\\NedeljaLatest.Implementation\\NedeljaLatest.Implementation.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

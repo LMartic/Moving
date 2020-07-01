@@ -1,0 +1,15 @@
+C:\Users\Salman\source\repos\NedeljaLatest\NedeljaLatest.Implementation\obj\Debug\netcoreapp3.1\NedeljaLatest.Implementation.csprojAssemblyReference.cache
+C:\Users\Salman\source\repos\NedeljaLatest\NedeljaLatest.Implementation\obj\Debug\netcoreapp3.1\NedeljaLatest.Implementation.AssemblyInfoInputs.cache
+C:\Users\Salman\source\repos\NedeljaLatest\NedeljaLatest.Implementation\obj\Debug\netcoreapp3.1\NedeljaLatest.Implementation.AssemblyInfo.cs
+C:\Users\Salman\source\repos\NedeljaLatest\NedeljaLatest.Implementation\bin\Debug\netcoreapp3.1\NedeljaLatest.Implementation.deps.json
+C:\Users\Salman\source\repos\NedeljaLatest\NedeljaLatest.Implementation\bin\Debug\netcoreapp3.1\NedeljaLatest.Implementation.dll
+C:\Users\Salman\source\repos\NedeljaLatest\NedeljaLatest.Implementation\bin\Debug\netcoreapp3.1\NedeljaLatest.Application.dll
+C:\Users\Salman\source\repos\NedeljaLatest\NedeljaLatest.Implementation\bin\Debug\netcoreapp3.1\NedeljaLatest.Domain.dll
+C:\Users\Salman\source\repos\NedeljaLatest\NedeljaLatest.Implementation\bin\Debug\netcoreapp3.1\NedeljaLatest.EfDataAccess.dll
+C:\Users\Salman\source\repos\NedeljaLatest\NedeljaLatest.Implementation\bin\Debug\netcoreapp3.1\NedeljaLatest.Application.pdb
+C:\Users\Salman\source\repos\NedeljaLatest\NedeljaLatest.Implementation\bin\Debug\netcoreapp3.1\NedeljaLatest.EfDataAccess.pdb
+C:\Users\Salman\source\repos\NedeljaLatest\NedeljaLatest.Implementation\bin\Debug\netcoreapp3.1\NedeljaLatest.Domain.pdb
+C:\Users\Salman\source\repos\NedeljaLatest\NedeljaLatest.Implementation\obj\Debug\netcoreapp3.1\NedeljaLatest.Implementation.csproj.CopyComplete
+C:\Users\Salman\source\repos\NedeljaLatest\NedeljaLatest.Implementation\bin\Debug\netcoreapp3.1\NedeljaLatest.Implementation.pdb
+C:\Users\Salman\source\repos\NedeljaLatest\NedeljaLatest.Implementation\obj\Debug\netcoreapp3.1\NedeljaLatest.Implementation.dll
+C:\Users\Salman\source\repos\NedeljaLatest\NedeljaLatest.Implementation\obj\Debug\netcoreapp3.1\NedeljaLatest.Implementation.pdb

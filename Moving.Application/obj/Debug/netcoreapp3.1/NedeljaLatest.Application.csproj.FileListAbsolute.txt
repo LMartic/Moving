@@ -1,0 +1,8 @@
+C:\Users\Salman\source\repos\NedeljaLatest\NedeljaLatest.Application\bin\Debug\netcoreapp3.1\NedeljaLatest.Application.deps.json
+C:\Users\Salman\source\repos\NedeljaLatest\NedeljaLatest.Application\bin\Debug\netcoreapp3.1\NedeljaLatest.Application.dll
+C:\Users\Salman\source\repos\NedeljaLatest\NedeljaLatest.Application\bin\Debug\netcoreapp3.1\NedeljaLatest.Application.pdb
+C:\Users\Salman\source\repos\NedeljaLatest\NedeljaLatest.Application\obj\Debug\netcoreapp3.1\NedeljaLatest.Application.csprojAssemblyReference.cache
+C:\Users\Salman\source\repos\NedeljaLatest\NedeljaLatest.Application\obj\Debug\netcoreapp3.1\NedeljaLatest.Application.AssemblyInfoInputs.cache
+C:\Users\Salman\source\repos\NedeljaLatest\NedeljaLatest.Application\obj\Debug\netcoreapp3.1\NedeljaLatest.Application.AssemblyInfo.cs
+C:\Users\Salman\source\repos\NedeljaLatest\NedeljaLatest.Application\obj\Debug\netcoreapp3.1\NedeljaLatest.Application.dll
+C:\Users\Salman\source\repos\NedeljaLatest\NedeljaLatest.Application\obj\Debug\netcoreapp3.1\NedeljaLatest.Application.pdb
