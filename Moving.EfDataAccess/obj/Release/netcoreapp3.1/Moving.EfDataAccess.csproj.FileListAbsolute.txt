@@ -1,0 +1,14 @@
+C:\Users\martic\Documents\GitHub\Moving\Moving.EfDataAccess\bin\Release\netcoreapp3.1\Moving.EfDataAccess.deps.json
+C:\Users\martic\Documents\GitHub\Moving\Moving.EfDataAccess\bin\Release\netcoreapp3.1\Moving.EfDataAccess.runtimeconfig.json
+C:\Users\martic\Documents\GitHub\Moving\Moving.EfDataAccess\bin\Release\netcoreapp3.1\Moving.EfDataAccess.runtimeconfig.dev.json
+C:\Users\martic\Documents\GitHub\Moving\Moving.EfDataAccess\bin\Release\netcoreapp3.1\Moving.EfDataAccess.dll
+C:\Users\martic\Documents\GitHub\Moving\Moving.EfDataAccess\bin\Release\netcoreapp3.1\Moving.EfDataAccess.pdb
+C:\Users\martic\Documents\GitHub\Moving\Moving.EfDataAccess\bin\Release\netcoreapp3.1\Moving.Domain.dll
+C:\Users\martic\Documents\GitHub\Moving\Moving.EfDataAccess\bin\Release\netcoreapp3.1\Moving.Domain.pdb
+C:\Users\martic\Documents\GitHub\Moving\Moving.EfDataAccess\obj\Release\netcoreapp3.1\Moving.EfDataAccess.csprojAssemblyReference.cache
+C:\Users\martic\Documents\GitHub\Moving\Moving.EfDataAccess\obj\Release\netcoreapp3.1\Moving.EfDataAccess.AssemblyInfoInputs.cache
+C:\Users\martic\Documents\GitHub\Moving\Moving.EfDataAccess\obj\Release\netcoreapp3.1\Moving.EfDataAccess.AssemblyInfo.cs
+C:\Users\martic\Documents\GitHub\Moving\Moving.EfDataAccess\obj\Release\netcoreapp3.1\Moving.EfDataAccess.csproj.CopyComplete
+C:\Users\martic\Documents\GitHub\Moving\Moving.EfDataAccess\obj\Release\netcoreapp3.1\Moving.EfDataAccess.dll
+C:\Users\martic\Documents\GitHub\Moving\Moving.EfDataAccess\obj\Release\netcoreapp3.1\Moving.EfDataAccess.pdb
+C:\Users\martic\Documents\GitHub\Moving\Moving.EfDataAccess\obj\Release\netcoreapp3.1\Moving.EfDataAccess.genruntimeconfig.cache

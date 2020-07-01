@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\martic\\Documents\\Moving\\Moving.EfDataAccess\\Moving.EfDataAccess.csproj": {}
+    "C:\\Users\\martic\\Documents\\GitHub\\Moving\\Moving.EfDataAccess\\Moving.EfDataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\martic\\Documents\\Moving\\Moving.Domain\\Moving.Domain.csproj": {
+    "C:\\Users\\martic\\Documents\\GitHub\\Moving\\Moving.Domain\\Moving.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\martic\\Documents\\Moving\\Moving.Domain\\Moving.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\martic\\Documents\\GitHub\\Moving\\Moving.Domain\\Moving.Domain.csproj",
         "projectName": "Moving.Domain",
-        "projectPath": "C:\\Users\\martic\\Documents\\Moving\\Moving.Domain\\Moving.Domain.csproj",
+        "projectPath": "C:\\Users\\martic\\Documents\\GitHub\\Moving\\Moving.Domain\\Moving.Domain.csproj",
         "packagesPath": "C:\\Users\\martic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\martic\\Documents\\Moving\\Moving.Domain\\obj\\",
+        "outputPath": "C:\\Users\\martic\\Documents\\GitHub\\Moving\\Moving.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\martic\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -56,14 +56,14 @@
         }
       }
     },
-    "C:\\Users\\martic\\Documents\\Moving\\Moving.EfDataAccess\\Moving.EfDataAccess.csproj": {
+    "C:\\Users\\martic\\Documents\\GitHub\\Moving\\Moving.EfDataAccess\\Moving.EfDataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\martic\\Documents\\Moving\\Moving.EfDataAccess\\Moving.EfDataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\martic\\Documents\\GitHub\\Moving\\Moving.EfDataAccess\\Moving.EfDataAccess.csproj",
         "projectName": "Moving.EfDataAccess",
-        "projectPath": "C:\\Users\\martic\\Documents\\Moving\\Moving.EfDataAccess\\Moving.EfDataAccess.csproj",
+        "projectPath": "C:\\Users\\martic\\Documents\\GitHub\\Moving\\Moving.EfDataAccess\\Moving.EfDataAccess.csproj",
         "packagesPath": "C:\\Users\\martic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\martic\\Documents\\Moving\\Moving.EfDataAccess\\obj\\",
+        "outputPath": "C:\\Users\\martic\\Documents\\GitHub\\Moving\\Moving.EfDataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\martic\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -79,8 +79,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\martic\\Documents\\Moving\\Moving.Domain\\Moving.Domain.csproj": {
-                "projectPath": "C:\\Users\\martic\\Documents\\Moving\\Moving.Domain\\Moving.Domain.csproj"
+              "C:\\Users\\martic\\Documents\\GitHub\\Moving\\Moving.Domain\\Moving.Domain.csproj": {
+                "projectPath": "C:\\Users\\martic\\Documents\\GitHub\\Moving\\Moving.Domain\\Moving.Domain.csproj"
               }
             }
           }

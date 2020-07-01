@@ -1,0 +1,8 @@
+C:\Users\martic\Documents\GitHub\Moving\Moving.Domain\bin\Release\netcoreapp3.1\Moving.Domain.deps.json
+C:\Users\martic\Documents\GitHub\Moving\Moving.Domain\bin\Release\netcoreapp3.1\Moving.Domain.dll
+C:\Users\martic\Documents\GitHub\Moving\Moving.Domain\bin\Release\netcoreapp3.1\Moving.Domain.pdb
+C:\Users\martic\Documents\GitHub\Moving\Moving.Domain\obj\Release\netcoreapp3.1\Moving.Domain.csprojAssemblyReference.cache
+C:\Users\martic\Documents\GitHub\Moving\Moving.Domain\obj\Release\netcoreapp3.1\Moving.Domain.AssemblyInfoInputs.cache
+C:\Users\martic\Documents\GitHub\Moving\Moving.Domain\obj\Release\netcoreapp3.1\Moving.Domain.AssemblyInfo.cs
+C:\Users\martic\Documents\GitHub\Moving\Moving.Domain\obj\Release\netcoreapp3.1\Moving.Domain.dll
+C:\Users\martic\Documents\GitHub\Moving\Moving.Domain\obj\Release\netcoreapp3.1\Moving.Domain.pdb

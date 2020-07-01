@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\martic\\Documents\\Moving\\Moving.Application\\Moving.Application.csproj",
+      "projectUniqueName": "C:\\Users\\martic\\Documents\\GitHub\\Moving\\Moving.Application\\Moving.Application.csproj",
       "projectName": "Moving.Application",
-      "projectPath": "C:\\Users\\martic\\Documents\\Moving\\Moving.Application\\Moving.Application.csproj",
+      "projectPath": "C:\\Users\\martic\\Documents\\GitHub\\Moving\\Moving.Application\\Moving.Application.csproj",
       "packagesPath": "C:\\Users\\martic\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\martic\\Documents\\Moving\\Moving.Application\\obj\\",
+      "outputPath": "C:\\Users\\martic\\Documents\\GitHub\\Moving\\Moving.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\martic\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -5088,11 +5088,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\martic\\Documents\\Moving\\Moving.Implementation\\Moving.Implementation.csproj",
+      "projectUniqueName": "C:\\Users\\martic\\Documents\\GitHub\\Moving\\Moving.Implementation\\Moving.Implementation.csproj",
       "projectName": "Moving.Implementation",
-      "projectPath": "C:\\Users\\martic\\Documents\\Moving\\Moving.Implementation\\Moving.Implementation.csproj",
+      "projectPath": "C:\\Users\\martic\\Documents\\GitHub\\Moving\\Moving.Implementation\\Moving.Implementation.csproj",
       "packagesPath": "C:\\Users\\martic\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\martic\\Documents\\Moving\\Moving.Implementation\\obj\\",
+      "outputPath": "C:\\Users\\martic\\Documents\\GitHub\\Moving\\Moving.Implementation\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\martic\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5108,11 +5108,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\martic\\Documents\\Moving\\Moving.Application\\Moving.Application.csproj": {
-              "projectPath": "C:\\Users\\martic\\Documents\\Moving\\Moving.Application\\Moving.Application.csproj"
+            "C:\\Users\\martic\\Documents\\GitHub\\Moving\\Moving.Application\\Moving.Application.csproj": {
+              "projectPath": "C:\\Users\\martic\\Documents\\GitHub\\Moving\\Moving.Application\\Moving.Application.csproj"
             },
-            "C:\\Users\\martic\\Documents\\Moving\\Moving.EfDataAccess\\Moving.EfDataAccess.csproj": {
-              "projectPath": "C:\\Users\\martic\\Documents\\Moving\\Moving.EfDataAccess\\Moving.EfDataAccess.csproj"
+            "C:\\Users\\martic\\Documents\\GitHub\\Moving\\Moving.EfDataAccess\\Moving.EfDataAccess.csproj": {
+              "projectPath": "C:\\Users\\martic\\Documents\\GitHub\\Moving\\Moving.EfDataAccess\\Moving.EfDataAccess.csproj"
             }
           }
         }
