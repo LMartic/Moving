@@ -14,8 +14,14 @@ namespace Moving.Implementation.Validators
 
         public UpdateCustomerValidator(MovingContext context)
         {
-            RuleFor(x => x.FirstName).NotEmpty();
-            RuleFor(x => x.LastName).NotEmpty();
+            RuleFor(x => x.FirstName)
+                .NotEmpty()
+                .MinimumLength(3)
+                .WithMessage("Must be more than 3 characters");
+            RuleFor(x => x.LastName)
+                .NotEmpty()
+                .MinimumLength(3)
+                .WithMessage("Must be more than 3 characters");
             RuleFor(x => x.Id).NotEmpty();
         }
     }
