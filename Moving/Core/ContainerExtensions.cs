@@ -31,10 +31,14 @@ namespace Moving.Api.Core
             services.AddTransient<IDeleteCustomerCommand, EfDeleteCustomerCommand>();
             services.AddTransient<IUpdateCustomerCommand, EfUpdateCustomerCommand>();
             services.AddTransient<IUpdateJobCommand, EfUpdateJobCommand>();
+            services.AddTransient<IUpdateUserCommand, EfUpdateUserCommand>();
             services.AddTransient<IRegisterUserCommand, EfRegisterUserCommand>();
             services.AddTransient<IGetCustomersQuery, EfGetCustomersQuery>();
             services.AddTransient<IGetJobsQuery, EfGetJobsQuery>();
             services.AddTransient<IGetUseCaseQuery, EfGetUseCaseLogsQuery>();
+            services.AddTransient<ICreateRoleCommand, EfCreateRoleCommand>();
+            services.AddTransient<IUpdateRoleCommand, EfUpdateRoleCommand>();
+            services.AddTransient<IGetRolesQuery, EFGetRolesQuery>();
 
             services.AddTransient<UseCaseExecutor>();
             services.AddTransient<CreateCustomerValidator>();
@@ -43,6 +47,9 @@ namespace Moving.Api.Core
             services.AddTransient<UpdateJobValidator>();
             services.AddTransient<CreateJobImageValidator>();
             services.AddTransient<RegisterUserValidator>();
+            services.AddTransient<CreateRoleValidator>();
+            services.AddTransient<UpdateRoleValidator>();
+            services.AddTransient<UpdateUserValidator>();
         }
 
         public static void AddApplicationActor(this IServiceCollection services)

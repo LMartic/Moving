@@ -9,8 +9,6 @@ using Microsoft.AspNetCore.Mvc;
 using Moving.Application;
 using Moving.Application.Commands;
 using Moving.Api.Core;
-using Moving.Application;
-using Moving.Application.Commands;
 using Moving.Application.DataTransfer;
 using Moving.Application.Queries;
 using Moving.Application.Searches;

@@ -51,6 +51,7 @@ namespace Moving
             services.AddControllers();
             services.AddAutoMapper(typeof(EfGetCustomersQuery).Assembly);
             services.AddAutoMapper(typeof(EfGetJobsQuery).Assembly);
+            services.AddAutoMapper(typeof(EFGetRolesQuery).Assembly);
 
             //services.AddSwaggerGen(c =>
             //{
