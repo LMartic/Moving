@@ -9,30 +9,29 @@ using System.Text;
 
 namespace Moving.Implementation.Commands
 {
-    public class EfDeleteJobCommand : IDeleteJobCommand
+    public class EfDeleteJobReviewCommand : IDeleteJobReviewCommand
     {
         private readonly MovingContext _context;
 
-        public EfDeleteJobCommand(MovingContext context)
+        public EfDeleteJobReviewCommand(MovingContext context)
         {
             this._context = context;
         }
 
-        public int Id => 8;
+        public int Id => 14;
 
-        public string Name => "Delete Job";
+        public string Name => "Delete Job Review";
 
         public void Execute(int request)
         {
-            var job = _context.Jobs.Find(request);
+            var jobReview = _context.JobReviews.Find(request);
 
-            if (job == null)
+            if (jobReview == null)
             {
-                throw new EntityNotFoundException(request, typeof(Jobs));
+                throw new EntityNotFoundException(request, typeof(JobReviews));
             }
-
-            job.IsDeleted = true;
-            _context.Entry(job).State = EntityState.Modified;
+            jobReview.IsDeleted = true;
+            _context.Entry(jobReview).State = EntityState.Modified;
 
             _context.SaveChanges();
         }

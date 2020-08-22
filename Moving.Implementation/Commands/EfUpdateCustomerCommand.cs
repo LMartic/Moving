@@ -35,7 +35,6 @@ namespace Moving.Implementation.Commands
             var customer = new Customers
             {
                 FirstName = request.FirstName,
-                CreatedDate = DateTime.Now,
                 Email = request.Email,
                 LastName = request.LastName,
                 Phone = request.Phone,

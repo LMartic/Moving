@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace Moving.Domain
 {
-    public partial class Roles
+    public partial class Roles : Entity
     {
         public Roles()
         {
@@ -11,7 +11,6 @@ namespace Moving.Domain
             UserRoles = new HashSet<UserRoles>();
         }
 
-        public int Id { get; set; }
         public string RoleName { get; set; }
 
         public virtual ICollection<RolePermissions> RolePermissions { get; set; }

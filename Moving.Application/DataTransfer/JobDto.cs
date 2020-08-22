@@ -18,10 +18,14 @@ namespace Moving.Application.DataTransfer
         public int MinimumHours { get; set; }
         public DateTime CreatedDate { get; set; }
         public int JobTypeId { get; set; }
+        public string JobTypeName { get; set; }
         public DateTime MoveDate { get; set; }
         public int CreatedByUserId { get; set; }
+        public string CreatedByUserName { get; set; }
         public int JobStatusId { get; set; }
+        public string JobStatusName { get; set; }
         public int CustomerId { get; set; }
+        public string CustomerName { get; set; }
         public List<JobImageDto> JobImages { get; set; }
     }
 }

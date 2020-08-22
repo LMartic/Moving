@@ -12,31 +12,31 @@ using Microsoft.EntityFrameworkCore;
 
 namespace Moving.Implementation.Queries
 {
-    public class EfGetJobsQuery : IGetJobsQuery
+    public class EfGetJobReviewQuery : IGetJobReviewsQuery
     {
         private readonly MovingContext context;
         private readonly IMapper _mapper;
 
-        public EfGetJobsQuery(MovingContext context, IMapper mapper)
+        public EfGetJobReviewQuery(MovingContext context, IMapper mapper)
         {
             this.context = context;
             _mapper = mapper;
         }
 
-        public int Id => 4;
+        public int Id => 15;
 
-        public string Name => "Job search";
+        public string Name => "JobReview Search";
 
-        public PagedResponse<JobDto> Execute(JobSearch search)
+        public PagedResponse<JobReviewDto> Execute(JobReviewSearch search)
         {
-            var query = context.Jobs.Include(o => o.Customer).Include(o => o.JobImages).Include(o => o.CreatedByUser).Include(o => o.JobStatus).Include(o => o.JobType).AsQueryable();
+            var query = context.JobReviews.Include(u => u.Job).ThenInclude(c => c.Customer).AsQueryable();
 
             if (!string.IsNullOrEmpty(search.CustomerName) || !string.IsNullOrWhiteSpace(search.CustomerName))
             {
-                query = query.Where(x => x.Customer.FirstName.ToLower().Contains(search.CustomerName.ToLower()) || x.Customer.LastName.ToLower().Contains(search.CustomerName.ToLower()));
+                query = query.Where(x => x.Job.Customer.FirstName.ToLower().Contains(search.CustomerName.ToLower()));
             }
 
-            return query.Paged<JobDto, Domain.Jobs>(search, _mapper);
+            return query.Paged<JobReviewDto, Domain.JobReviews>(search, _mapper);
         }
     }
 }

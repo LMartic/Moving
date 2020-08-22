@@ -11,6 +11,6 @@ namespace Moving.Application.DataTransfer
         public string LastName { get; set; }
         public string Phone { get; set; }
         public string Email { get; set; }
-        public DateTime CreatedDate { get; set; }
+        public DateTime CreatedAt { get; set; }
     }
 }

@@ -46,7 +46,6 @@ namespace Moving.Implementation.Commands
                 PricePerHour = request.PricePerHour,
                 Pickup = false,
                 Delivery = false,
-                CreatedDate = DateTime.Now,
                 Id = request.Id
             };
 

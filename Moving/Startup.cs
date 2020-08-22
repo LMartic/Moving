@@ -88,7 +88,7 @@ namespace Moving
             //});
             services.AddSwaggerGen(c =>
             {
-                c.SwaggerDoc("v1", new OpenApiInfo { Title = "Nedelja", Version = "1" });
+                c.SwaggerDoc("v1", new OpenApiInfo { Title = "Moving", Version = "1" });
             });
         }
 

@@ -38,8 +38,7 @@ namespace Moving.Implementation.Commands
                 LastName = request.LastName,
                 UserName = request.UserName,
                 Password = request.Password,
-                Email = request.Email,
-                CreatedDate = DateTime.Now
+                Email = request.Email
             };
             var model = new UserRoles()
             {

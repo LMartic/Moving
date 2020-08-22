@@ -3,19 +3,18 @@ using System.Collections.Generic;
 
 namespace Moving.Domain
 {
-    public partial class Jobs
+    public partial class Jobs : Entity
     {
         public Jobs()
         {
             JobImages = new HashSet<JobImages>();
+            JobReviews = new HashSet<JobReviews>();
         }
-        public int Id { get; set; }
         public int NumberOfMovers { get; set; }
         public int NumberOfTrucks { get; set; }
         public decimal PricePerHour { get; set; }
         public decimal Deposit { get; set; }
         public int MinimumHours { get; set; }
-        public DateTime CreatedDate { get; set; }
         public int JobTypeId { get; set; }
         public DateTime MoveDate { get; set; }
         public int CreatedByUserId { get; set; }
@@ -29,5 +28,6 @@ namespace Moving.Domain
         public virtual JobStatuses JobStatus { get; set; }
         public virtual JobTypes JobType { get; set; }
         public virtual ICollection<JobImages> JobImages { get; set; }
+        public virtual ICollection<JobReviews> JobReviews { get; set; }
     }
 }

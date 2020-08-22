@@ -1,4 +1,5 @@
-﻿using Moving.Application.Commands;
+﻿using Microsoft.EntityFrameworkCore;
+using Moving.Application.Commands;
 using Moving.Application.Exceptions;
 using Moving.Domain;
 using Moving.EfDataAccess;
@@ -30,7 +31,8 @@ namespace Moving.Implementation.Commands
                 throw new EntityNotFoundException(request, typeof(Customers));
             }
 
-            _context.Customers.Remove(customer);
+            customer.IsDeleted = true;
+            _context.Entry(customer).State = EntityState.Modified;
 
             _context.SaveChanges();
         }
